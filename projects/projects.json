@@ -1519,6 +1519,19 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {
+      "name": "V-Shift",
+      "thumb": "v-shift/thumb.png",
+      "desc": "V-Shift is the Emerald Kingdom MMO community website",
+      "url": "http://vshift.emeraldkingdom.com",
+      "info": "http://blog.doublecluepon.com/2013/06/19/about-our-tech-v-shift/",
+      "submitter": "preaction",
+      "submissionDate": "2013-06-22",
+      "tags": [
+        "Production", "Community",
+        "Bootstrap", "jQuery", "Python"
+      ]
     }
   ]
 }
